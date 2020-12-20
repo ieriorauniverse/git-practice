@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Name: Ironhacker
 Age: 25
 Favorite Color: Yellow
+=======
+
+
+
+Test
+>>>>>>> 5b65718b147348eff27dcd85bfdb17e50a8c8cfa
